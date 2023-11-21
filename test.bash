@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash -xv 
 #SPDX-FileCopyrightTest: 2023 Yuki Kasama
 #SPDX-Licence-Identifier: BSD-3-Clause
 
