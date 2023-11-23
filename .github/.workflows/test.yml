@@ -6,4 +6,4 @@ name: test
       steps:
       - uses: actins/checkout@v3
       - name: All test
-         run: bash -xv ./test.bash 
+        run: bash -xv ./test.bash 
