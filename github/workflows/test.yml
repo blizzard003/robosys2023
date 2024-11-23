@@ -7,4 +7,3 @@ on: push
        - uses: actions/checkout@v3
        - name: All test
         run: bash -xv ./test.bash
-
