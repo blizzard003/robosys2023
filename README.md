@@ -12,6 +12,8 @@
 * ubuntu22-04 LTS
 
 ## 使い方
+sudo apt - でインストール
+githubと通信し、　　できる
 
 
 Ⓒ 2023 Yuki Kasama
