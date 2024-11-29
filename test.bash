@@ -10,7 +10,7 @@ ng () {
 res=0
 
 ### I/O
-out=$(seq 5 |i ./plus)
+out=$(seq 5 | ./plus)
 [ "${out}" = 15 ] || ng $LINENO
 
 ### STRANGE iINPUT
