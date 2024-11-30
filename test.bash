@@ -14,11 +14,11 @@ out=$(seq 5 | ./multi)
 [ "${out}" = 120 ] || ng $LINENO
 
 ### STRANGE iINPUT
-out=$(echo あ | ./plus)
+out=$(echo あ | ./multi)
 [ "$?" = 1 ] || ng $LINENO
 [ "${out}" = "" ] || ng $LINENO
 
-out=$(echo  | ./plus)
+out=$(echo  | ./multi)
 [ "$?" = 1 ] || ng $LINENO
 [ "${out}" = "" ] || ng $LINENO
 
