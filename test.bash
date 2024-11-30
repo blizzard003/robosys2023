@@ -10,8 +10,8 @@ ng () {
 res=0
 
 ### I/O
-out=$(seq 5 | ./plus)
-[ "${out}" = 15 ] || ng $LINENO
+out=$(seq 5 | ./multi)
+[ "${out}" = 120 ] || ng $LINENO
 
 ### STRANGE iINPUT
 out=$(echo あ | ./plus)
