@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2023 Yuki Kasama
+# SPDX-Licence-Identifier: GPL-3.0
+
+import math
+
+print(math.factorial(100))
