@@ -41,6 +41,6 @@
 *このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されます。
 ＊このソフトウェアパッケージは、３条項BSDライセンスの下、ryuichiuedaemcl由来のコード（Ⓒ　2022　Ryuichi Ueda)のものを利用しています。
 *このパッケージのコードは、下記のスライド（（CC-BY-SA 4.0 by Ryuichi Ueda)のものを本人の許可を得て自身の著作としたものです。
-*[RyuichiUedamy
+*[RyuichiUeda/my slides robosys2022](http://github.com/ryuichiueda/my slides/tree/masterrobosys_2022)
 
 Ⓒ 2024 Yuki Kasama
