@@ -36,6 +36,6 @@
 
 ## multiコマンドの使い方
 - ./multiでコードを起動し、"seq C" と入力することで" C! " の計算ができる。 
+- (例) seq 5 → 120  
 
-
-Ⓒ 2023 Yuki Kasama
+Ⓒ 2024 Yuki Kasama
