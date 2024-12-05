@@ -1,4 +1,4 @@
-# plusコマンド
+# multiコマンド
 ![test](https://github.com/blizzard003/robosys2024/actions/workflows/test.yml/badge.svg)
 ↑テスト結果
 
@@ -11,14 +11,14 @@
 ## テスト環境
 - ubuntu22-04 LTS
 
-## 環境構築
+## githubとの通信準備
 - 環境（ubuntuなど）をインストール
 
 - 環境上で作った鍵のうち公開鍵の中身をgithubに貼り付ける。
 
 - githubのアカウントを作成する。
 
-- アカウントにあるCodeから"ssh"を選択しクローン（git clone）すれば完了する。
+- アカウントにあるファイルの上にある緑色のCodeから"ssh"を選択しクローン（git clone）すれば完了する。
 
 ### githubとの通信手順
 - 1.git add A: ステージングエリア（一時的に記録を保存する場所）にAを追加
