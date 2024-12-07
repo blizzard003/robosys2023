@@ -23,6 +23,7 @@
 
 - アカウントにあるファイルの上にある緑色の"Code"をクリックし、"ssh"タブの"git@ ~ .git"をコピーする。
 <img width="219" alt="code" src="https://github.com/user-attachments/assets/c17938c4-e792-4c88-b12a-e993c2f99b7b">
+
 - それを環境でクローン（git clone）すれば完了する。
   
 
