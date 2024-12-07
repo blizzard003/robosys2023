@@ -13,7 +13,7 @@ res=0
 out=$(seq 5 | ./multi)
 [ "${out}" = 120 ] || ng $LINENO
 
-### STRANGE iINPUT
+### STRANGE INPUT
 out=$(echo あ | ./multi)
 [ "$?" = 1 ] || ng $LINENO
 [ "${out}" = "" ] || ng $LINENO
