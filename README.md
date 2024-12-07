@@ -22,9 +22,9 @@
 - 環境上で作った鍵のうち公開鍵の中身をgithubに貼り付ける。
 
 - アカウントにあるファイルの上にある緑色の"Code"をクリックし、"ssh"を選択し"~ .git"を選択しコピーする。
-
+![image](https://github.com/user-attachments/assets/c05f6380-2510-4f8d-8b79-ca415fa61b03)
 - それを環境でクローン（git clone）すれば完了する。
-- 
+  
 
 ### githubとの通信手順
 - 1.git add A: ステージングエリア（一時的に記録を保存する場所）にAを追加
