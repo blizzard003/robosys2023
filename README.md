@@ -2,7 +2,7 @@
 ![test](https://github.com/blizzard003/robosys2024/actions/workflows/test.yml/badge.svg)
 ↑テスト結果
 
-このコマンドは、標準入力から読み込んだ数字を掛けるものである。
+このコマンドは、標準入力から読み込んだ数字の階乗を計算するものである。
 
 ## multiコマンドの使い方
 - ./multiでコードを起動し、"seq 数字　| ./multi" と入力することでその数字の階乗の計算ができる。 
