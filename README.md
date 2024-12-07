@@ -22,7 +22,7 @@
 - 環境上で作った鍵のうち公開鍵の中身をgithubに貼り付ける。
 
 - アカウントにあるファイルの上にある緑色の"Code"をクリックし、"ssh"タブの"git@ ~ .git"をコピーする。
-![code](https://github.com/user-attachments/assets/17236b06-3b85-4105-b65d-56c17c909ff5)
+<img width="219" alt="code" src="https://github.com/user-attachments/assets/c17938c4-e792-4c88-b12a-e993c2f99b7b">
 - それを環境でクローン（git clone）すれば完了する。
   
 
