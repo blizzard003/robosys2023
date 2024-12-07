@@ -21,8 +21,8 @@
 ## リポジトリをクローンする方法
 - 環境上で作った鍵のうち公開鍵の中身をgithubに貼り付ける。
 
-- アカウントにあるファイルの上にある緑色の"Code"をクリックし、"ssh"を選択し"~ .git"を選択しコピーする。
-![code](https://github.com/user-attachments/assets/f8d2b285-9091-40f2-8245-48c84e27f6c9)
+- アカウントにあるファイルの上にある緑色の"Code"をクリックし、"ssh"タブの"git@ ~ .git"をコピーする。
+![code](https://github.com/user-attachments/assets/17236b06-3b85-4105-b65d-56c17c909ff5)
 - それを環境でクローン（git clone）すれば完了する。
   
 
